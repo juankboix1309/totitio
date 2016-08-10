@@ -1,0 +1,108 @@
+//reloj analogo
+
+#totito
+{
+  width: 600px;
+  height: 600px;
+}
+
+#sq1
+{
+  border-right: solid;
+  border-bottom: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+#sq2
+{
+  border-left: solid;
+  border-bottom: solid;
+  border-right: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+#sq3
+{
+  border-left: solid;
+  border-bottom: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+#sq4
+{
+  border-top: solid;
+  border-right: solid;
+  border-bottom: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+#sq5
+{
+  border-style: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+#sq6
+{
+  border-top: solid;
+  border-left: solid;
+  border-bottom: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+#sq7
+{
+  border-top: solid;
+  border-right: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+#sq8
+{
+  border-top: solid;
+  border-right: solid;
+  border-left: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+#sq9
+{
+  border-left: solid;
+  border-top: solid;
+  width: 33.33%;
+  height: 33.33%;
+  box-sizing: border-box;
+  float: left;
+}
+.x
+{
+  background-image: url("X.png");
+  width: 100%;
+  height: 100%;
+}
+.o
+{
+  background-image: url("O.png");
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
